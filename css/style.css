@@ -76,6 +76,12 @@ body {
   justify-content: center;
   align-items: center;
 }
+.modal-txt {
+  line-height: 1.5;
+}
+.modal-email-link-txt {
+  color: #3891b2;
+}
 
 .modal-close {
   position: absolute;
